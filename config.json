@@ -1,0 +1,8 @@
+{
+    "binance_api":{
+        "api_key":"API_KEY",
+        "api_secret":"API_SECRET"
+    },
+    "crypto": "BTCUSDT",
+    "days": 7
+}
